@@ -29,8 +29,10 @@
   <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
 </p>
 
+<!--
 <div>
   <a href="https://github.com/Jeferson5641">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson5641&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson5641&layout=compact&langs_count=10&theme=dracula"/>
 </div>
+-->
