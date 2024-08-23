@@ -1,4 +1,5 @@
 <!--título-->
+<img align="left" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
