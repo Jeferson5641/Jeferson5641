@@ -37,3 +37,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson5641&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 -->
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeferson5641&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeferson5641&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeferson5641&theme=tokyonight) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeferson5641&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=jeferson5641&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
