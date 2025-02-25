@@ -26,15 +26,6 @@
   <img align="center" alt="Jeferson-Intellij" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
 </div>
 
-<!-- Dropdown 
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
-
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
-</details>-->
-
 <img src="https://raw.githubusercontent.com/jeferson5641/jeferson5641/output/snake.svg" alt="Snake animation" />
 
 <!-- GithubStats -->
@@ -44,15 +35,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson5641&layout=compact&langs_count=10&theme=dracula"/>
 </div>
 <!-- GIF -->
-
-
-<!--
-<div>
-  <a href="https://github.com/Jeferson5641">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jeferson5641&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeferson5641&layout=compact&langs_count=10&theme=dracula"/>
-</div>
--->
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeferson5641&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeferson5641&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jeferson5641&theme=tokyonight) |
 | :-: | :-: | :-: |
