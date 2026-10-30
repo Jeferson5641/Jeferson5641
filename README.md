@@ -1,6 +1,11 @@
 <!--título-->
 <img align="left" src="https://komarev.com/ghpvc/?username=jeferson5641&color=780606"><br>
-<img src="assets/download.gif" width="100%" alt="city">
+<div align="center">
+  <picture>
+    <img src="assets/download.gif" style="width: 100%; max-width: 800px; transform: scale(1.2) translate(5%, 0%); clip-path: inset(10% 0% 10% 10%);" alt="City">
+  </picture>
+</div>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello World</h1></summary>
