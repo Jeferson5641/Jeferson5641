@@ -1,10 +1,9 @@
 <!--título-->
 <img align="left" src="https://komarev.com/ghpvc/?username=jeferson5641&color=780606"><br>
-<div align="center">
+
   <picture>
     <img src="assets/download.gif" style="width: 100%; max-width: 800px; transform: scale(1.2) translate(5%, 0%); clip-path: inset(10% 0% 10% 10%);" alt="City">
   </picture>
-</div>
 
 <div id="user-content-toc">
   <ul align="center">
